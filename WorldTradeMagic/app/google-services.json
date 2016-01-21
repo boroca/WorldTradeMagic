@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "worldtrademagic",
+    "project_number": "1001553400827",
+    "name": "WorldTradeMagic"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001553400827:android:cd1099f4e95f1ea3",
+        "client_id": "android:com.example.boro.worldtrademagic",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.boro.worldtrademagic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001553400827-ebj5bi0bsjg5cb3hi71mtp1h06fniq6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.boro.worldtrademagic",
+            "certificate_hash": "EF1D4E63CD11ECEE1C647C517FB4F37B8DCF81D3"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
